@@ -22,7 +22,7 @@ To access your Express server, visit http://localhost:4200/posts on your browser
 To run the React frontend, run 
 ### npm run start:ui
 
-To access your Express server, visit http://localhost:3000/ on your browser!
+To access your React app, visit http://localhost:3000/ on your browser!
 
 These scripts can be found in the `package.json`.
 
